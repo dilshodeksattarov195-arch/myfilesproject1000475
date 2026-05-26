@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercpdate",
+        "uuid": 4754750,
+        "checksum": "enfqpe"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
